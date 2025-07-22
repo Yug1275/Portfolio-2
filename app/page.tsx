@@ -176,7 +176,7 @@ export default function Portfolio() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/Yug_Pci.png?height=400&width=400"
                 alt="Workspace"
                 width={400}
                 height={400}
